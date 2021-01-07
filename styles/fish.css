@@ -16,5 +16,7 @@
 }
 
 .containerLeft__fishList{
-    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
