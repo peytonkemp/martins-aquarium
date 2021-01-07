@@ -1,0 +1,10 @@
+.contentArticle{
+   background-color: seagreen;
+}
+
+
+.containerLeft{
+   flex-direction: column;
+   flex-basis: 75%;
+}
+
