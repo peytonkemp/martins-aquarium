@@ -1,4 +1,5 @@
 header{
-    background-color: palegoldenrod;
+    background-color: rgb(255 151 53);
     display: flex;
+    margin: 20px;
 }
