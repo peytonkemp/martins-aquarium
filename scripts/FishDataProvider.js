@@ -1,10 +1,10 @@
 const fishCollection = [
     {
-        img: "https://i.dlpng.com/static/png/6951024_preview.png",
+        img: "https://www.thefactsite.com/wp-content/uploads/2020/04/nemo-facts-nemo.jpg",
         name: "Nemo",
         species:"",
         length:"",
-        location:"",
+        location:"Anemone",
         diet: "crustaceans"
         
     },
@@ -13,7 +13,7 @@ const fishCollection = [
         name: "Marlin",
         species:"",
         length:"",
-        location:"",
+        location:"Anemone",
         diet: "crustaceans"
     },
     {
@@ -26,8 +26,8 @@ const fishCollection = [
     },
     {
         img: "https://images.immediate.co.uk/production/volatile/sites/4/2009/07/GettyImages-931270318-43ab672.jpg?quality=90&resize=940%2C400",
-        name: "Billy",
-        species:"Goldfish",
+        name: "Larry",
+        species:"Gambling Goldfish",
         length:"",
         location:"", 
         diet: "crustaceans"
